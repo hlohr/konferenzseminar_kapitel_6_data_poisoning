@@ -15,7 +15,7 @@ Es wird ein Bildklassifikator hinsichtlich seiner fünf Emotionen (angry fear, h
 
 ![Keras-Modell](images/keras_model_git.png)
 
-Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss sind im gespeicherten [📄 Jupyther-Notebook](Konferenzseminar_Kapitel_6_data_poisoning.ipynb) einzusehen samt confusion matrix.
+Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss sind im gespeicherten [📄 Jupyther-Notebook](code/Konferenzseminar_Kapitel_6_data_poisoning.ipynb) einzusehen samt confusion matrix.
 
 **Struktur des Repository**
 ```text
@@ -29,7 +29,7 @@ Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss
 └── README.md
 ```
 
-**Resultate bei normalem Training sowie anschließendem data- & backdoor-poisoning (Details s.[📄 Jupyther-Notebook](Konferenzseminar_Kapitel_6_data_poisoning.ipynb) **
+**Resultate bei normalem Training sowie anschließendem data- & backdoor-poisoning (Details s.[📄 Jupyther-Notebook](code/Konferenzseminar_Kapitel_6_data_poisoning.ipynb) **
 
 - Genauigkeit im "baseline"-Datensatz OHNE data poisoning       : **61.9%**
 - Genaugkeit MIT poisoning (12.5% der Label manipuliert)        : **51.2%**
