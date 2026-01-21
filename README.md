@@ -15,7 +15,7 @@ Es wird ein Bildklassifikator hinsichtlich seiner fünf Emotionen (angry fear, h
 
 ![Keras-Modell](images/keras_model_git.png)
 
-Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss sind im gespeicherten Jupyther-Notebook einzusehen samt confusion matrix.
+Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss sind im gespeicherten Jupyther-Notebook [📄 Jupyther-Notebook](Konferenzseminar_Kapitel_6_data_poisoning.ipynb) einzusehen samt confusion matrix.
 
 **Struktur des Repository**
 ```text
