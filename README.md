@@ -32,7 +32,7 @@ Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss
 
 - Genauigkeit im "baseline"-Datensatz OHNE data poisoning       : **61.9%**
 - Genaugkeit MIT poisoning (12.5% der Label manipuliert)        : **51.2%**
-- Erfolgsrate des backdoor-triggers (3x3 Pixel)mittige Position : **100%**
+- Erfolgsrate des backdoor-triggers (3x3 Pixel) mittige Position : **100%**
 - Erfolgsrate des backdoor-triggers (3x3 Pixel) oben links      : **61%**
 - Erfolgsrate des backdoor-triggers (2x2 Pixel) oben links      : **0,8%**
 
