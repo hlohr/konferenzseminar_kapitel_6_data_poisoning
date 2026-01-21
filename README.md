@@ -1,4 +1,4 @@
-**Konferenzseminar vom 28.02.2026 an der Fachhochschule Südwestfalen im Wintersemesteer 2025/26. Dieses Repository enthält neben dem eigentlichen [📄 Konferenz-Papier PDF](arbeit/ausarbeitung_conference_papier.pdf) des Verfassers den für den Praxisteil / Kapitel 6 der Arbeit wichtigen Code in Form eines Jupyther-Notebooks zwecks Prüfung der Ergebnisse**
+**Konferenzseminar vom 28.02.2026 an der Fachhochschule Südwestfalen im Wintersemesteer 2025/26. Dieses Repository enthält neben dem eigentlichen [📄 Konferenz-Papier PDF](arbeit/ausarbeitung_conference_papier.pdf) des Verfassers den für den Praxisteil / Kapitel 6 der Arbeit wichtigen Code in Form eines Jupyter-Notebooks zwecks Prüfung der Ergebnisse**
 
 Thema: "Adversariale Attacken im Machine Learning - eine Systematisierung"
 
@@ -14,7 +14,7 @@ Es wird ein Bildklassifikator hinsichtlich seiner fünf Emotionen (angry fear, h
 
 ![Keras-Modell](images/keras_model_git.png)
 
-Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss sind im gespeicherten [📄 Jupyther-Notebook](code/Konferenzseminar_Kapitel_6_data_poisoning.ipynb) einzusehen samt confusion matrix.
+Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss sind im gespeicherten [📄 Jupyter-Notebook](code/Konferenzseminar_Kapitel_6_data_poisoning.ipynb) einzusehen samt confusion matrix.
 
 **Struktur des Repository**
 ```text
@@ -28,7 +28,7 @@ Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss
 └── README.md
 ```
 
-**Resultate bei normalem Training sowie anschließendem data- & backdoor-poisoning (Details s.[📄 Jupyther-Notebook](code/Konferenzseminar_Kapitel_6_data_poisoning.ipynb)**
+**Resultate bei normalem Training sowie anschließendem data- & backdoor-poisoning (Details s.[📄 Jupyter-Notebook](code/Konferenzseminar_Kapitel_6_data_poisoning.ipynb)**
 
 - Genauigkeit im "baseline"-Datensatz OHNE data poisoning         : **61.9%**
 - Genaugkeit MIT poisoning (12.5% der Label manipuliert)             : **51.2%**
