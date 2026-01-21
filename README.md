@@ -18,6 +18,7 @@ Es wird ein Bildklassifikator hinsichtlich seiner fünf Emotionen (angry fear, h
 Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss sind im gespeicherten Jupyther-Notebook einzusehen samt confusion matrix.
 
 **Struktur des Repository**
+```text
 .
 ├── arbeit/
 │   └── ausarbeitung_conference_papier.pdf
@@ -26,6 +27,7 @@ Das Training erstreckt sich über 50 Epochen und die Ergebnisse und Arbeitsfluss
 ├── images/
 │   └── keras_model_git.png
 └── README.md
+```
 
 **Resultate**
 
