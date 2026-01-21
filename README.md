@@ -1,5 +1,4 @@
-**Konferenzseminar vom 28.02.2026 an der Fachhochschule Südwestfalen im Wintersemesteer 2025/26**
-**Dieses Repository enthält neben dem eigentlichen [📄 Konferenz-Papier PDF](arbeit/ausarbeitung_conference_papier.pdf) des Verfassers den für den Praxisteil / Kapitel 6 der Arbeit wichtigen Code in Form eines Jupyther-Notebooks zwecks Prüfung der Ergebnisse**
+**Konferenzseminar vom 28.02.2026 an der Fachhochschule Südwestfalen im Wintersemesteer 2025/26. Dieses Repository enthält neben dem eigentlichen [📄 Konferenz-Papier PDF](arbeit/ausarbeitung_conference_papier.pdf) des Verfassers den für den Praxisteil / Kapitel 6 der Arbeit wichtigen Code in Form eines Jupyther-Notebooks zwecks Prüfung der Ergebnisse**
 
 Thema: "Adversariale Attacken im Machine Learning - eine Systematisierung"
 
